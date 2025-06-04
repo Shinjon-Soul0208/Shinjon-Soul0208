@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shinjon-Soul0208
+- 👋 Hi, I’m Shinjon
 - 👀 I’m interested in Playing guitar
-- 🌱 I’m currently learning in Standard XI- Computer science Student 
-- 💞️ I’m looking to collaborate on Python c=and java coding !
+- 🌱  Computer science Student 
+- 💞️ I’m looking to collaborate on Python c, c++ and java , javascript.
 - 📫 How to reach me on instagram at:@sd_soul_07
 - 😄 Pronouns: Shinju
 - ⚡ Fun fact: Im into cars !
