@@ -3,7 +3,7 @@
 - 🌱  Computer science Student 
 - 💞️ I’m looking to collaborate on Python c, c++ and java , javascript.
 - 📫 How to reach me on instagram at:@sd_soul_07
-- 😄 Pronouns: Shinju
+- 😄 Pronouns: Leo
 - ⚡ Fun fact: Im into cars !
 
 <!---
