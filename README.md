@@ -1,8 +1,5 @@
-## Hi there 👋
 
-<!--
 **Shinjon-Soul0208/Shinjon-Soul0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 👋 Hi, I’m Shinjon
 👀 I’m interested in Playing guitar
